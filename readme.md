@@ -12,7 +12,7 @@
 ## This project provides multiple targeted optimizations, such as environment variables, additional configuration, etc. The simple admin module needs to rely on this project.
 
 ## 本项目遵循 Apache 2.0 协议， 使用请注明出处
-## This project uses the Apache 2.0 license, please indicate the source when using it
+## This project uses the Apache 2.0 license, please indicate the source when using it 
 
 ## 原许可证位于 .originallicense 文件夹下
 
