@@ -16,6 +16,6 @@
 
 ## 原许可证位于 .originallicense 文件夹下
 
-## The original license is located under the .originallicense folder
+## The original license is located under the .originallicense folder 
 
 ## Simple Admin Core [https://github.com/suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core)
